@@ -81,7 +81,7 @@ body{
 	font-weight: 700;
 	text-decoration: none;
 }
-.plan-selection a:active{
+.plan-selection a:hover{
 	color: #695CFF;
 }
 
@@ -109,7 +109,7 @@ body{
 	width: 85%;
 }
 
-#accept:active{
+#accept:hover{
 	background-color: #695CFF;
 }
 
@@ -125,7 +125,7 @@ body{
 	width: 28%;
 }
 
-#cancel:active{
+#cancel:hover{
 	color: black;
 }
 
